@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jason Blog</title>
+    <link>https://ipromisedemon.github.io/</link>
+    <description>Recent content on Jason Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016. All rights reserved.</copyright>
+    <lastBuildDate>Mon, 29 Nov 2021 22:48:48 +0800</lastBuildDate><atom:link href="https://ipromisedemon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About site</title>
+      <link>https://ipromisedemon.github.io/post/blog/</link>
+      <pubDate>Mon, 29 Nov 2021 22:48:48 +0800</pubDate>
+      
+      <guid>https://ipromisedemon.github.io/post/blog/</guid>
+      <description>Welcome to my blog
+This site will continue to update!</description>
+    </item>
+    
+  </channel>
+</rss>
